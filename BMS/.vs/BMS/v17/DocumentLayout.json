@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# Code\\BMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|e:\\c# code\\bms\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\depositdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:depositdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\depositdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:depositdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\moneytransferdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:moneytransferdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\withdrawdashboard2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:withdrawdashboard2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\thdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:thdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\moneytransferdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:moneytransferdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\thdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:thdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\withdrawdashboard2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:withdrawdashboard2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|E:\\C# Code\\BMS\\withdrawdashboard2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}|BMS.csproj|solutionrelative:withdrawdashboard2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\Registration.cs",
+              "RelativeDocumentMoniker": "Registration.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\Registration.cs [Design]",
+              "RelativeToolTip": "Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:20:05.443Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WithdrawDashBoard2.Designer.cs",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\WithdrawDashBoard2.Designer.cs",
+              "RelativeDocumentMoniker": "WithdrawDashBoard2.Designer.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\WithdrawDashBoard2.Designer.cs",
+              "RelativeToolTip": "WithdrawDashBoard2.Designer.cs",
+              "ViewState": "AgIAALsBAAAAAAAAAAAwwM0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:14:05.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:57:41.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:57:39.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WithdrawDashBoard2.cs",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\WithdrawDashBoard2.cs",
+              "RelativeDocumentMoniker": "WithdrawDashBoard2.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\WithdrawDashBoard2.cs",
+              "RelativeToolTip": "WithdrawDashBoard2.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA9wC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:32:44.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WithdrawDashBoard2.cs [Design]",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\WithdrawDashBoard2.cs",
+              "RelativeDocumentMoniker": "WithdrawDashBoard2.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\WithdrawDashBoard2.cs [Design]",
+              "RelativeToolTip": "WithdrawDashBoard2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:32:42.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "THDashBoard.cs",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\THDashBoard.cs",
+              "RelativeDocumentMoniker": "THDashBoard.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\THDashBoard.cs",
+              "RelativeToolTip": "THDashBoard.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:32:21.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "THDashBoard.cs [Design]",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\THDashBoard.cs",
+              "RelativeDocumentMoniker": "THDashBoard.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\THDashBoard.cs [Design]",
+              "RelativeToolTip": "THDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:32:20.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\Registration.cs",
+              "RelativeDocumentMoniker": "Registration.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\Registration.cs",
+              "RelativeToolTip": "Registration.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAiwN8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:31:55.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoneyTransferDashBoard.cs",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\MoneyTransferDashBoard.cs",
+              "RelativeDocumentMoniker": "MoneyTransferDashBoard.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\MoneyTransferDashBoard.cs",
+              "RelativeToolTip": "MoneyTransferDashBoard.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAUwG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:31:23.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoneyTransferDashBoard.cs [Design]",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\MoneyTransferDashBoard.cs",
+              "RelativeDocumentMoniker": "MoneyTransferDashBoard.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\MoneyTransferDashBoard.cs [Design]",
+              "RelativeToolTip": "MoneyTransferDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:31:22.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepositDashBoard.cs",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\DepositDashBoard.cs",
+              "RelativeDocumentMoniker": "DepositDashBoard.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\DepositDashBoard.cs",
+              "RelativeToolTip": "DepositDashBoard.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:29:27.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepositDashBoard.cs [Design]",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\DepositDashBoard.cs",
+              "RelativeDocumentMoniker": "DepositDashBoard.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\DepositDashBoard.cs [Design]",
+              "RelativeToolTip": "DepositDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:29:24.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainDashBoard.cs",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\MainDashBoard.cs",
+              "RelativeDocumentMoniker": "MainDashBoard.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\MainDashBoard.cs",
+              "RelativeToolTip": "MainDashBoard.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:02:00.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainDashBoard.cs [Design]",
+              "DocumentMoniker": "E:\\C# Code\\BMS\\MainDashBoard.cs",
+              "RelativeDocumentMoniker": "MainDashBoard.cs",
+              "ToolTip": "E:\\C# Code\\BMS\\MainDashBoard.cs [Design]",
+              "RelativeToolTip": "MainDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:47:48.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

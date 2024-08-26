@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A4BCF63C-625C-4D70-AB18-37E3A00EDBB1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BMS</RootNamespace>
+    <AssemblyName>BMS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CarLoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CarLoan.Designer.cs">
+      <DependentUpon>CarLoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepositDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepositDashBoard.Designer.cs">
+      <DependentUpon>DepositDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EducationLoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EducationLoan.Designer.cs">
+      <DependentUpon>EducationLoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgetPassword.Designer.cs">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeLoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeLoan.Designer.cs">
+      <DependentUpon>HomeLoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LDDashBoard.Designer.cs">
+      <DependentUpon>LDDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainDashBoard.Designer.cs">
+      <DependentUpon>MainDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoneyTransferDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoneyTransferDashBoard.Designer.cs">
+      <DependentUpon>MoneyTransferDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonalLoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonalLoan.Designer.cs">
+      <DependentUpon>PersonalLoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="THDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="THDashBoard.Designer.cs">
+      <DependentUpon>THDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WithdrawDashBoard2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WithdrawDashBoard2.Designer.cs">
+      <DependentUpon>WithdrawDashBoard2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CarLoan.resx">
+      <DependentUpon>CarLoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepositDashBoard.resx">
+      <DependentUpon>DepositDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EducationLoan.resx">
+      <DependentUpon>EducationLoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgetPassword.resx">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeLoan.resx">
+      <DependentUpon>HomeLoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LDDashBoard.resx">
+      <DependentUpon>LDDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainDashBoard.resx">
+      <DependentUpon>MainDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoneyTransferDashBoard.resx">
+      <DependentUpon>MoneyTransferDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonalLoan.resx">
+      <DependentUpon>PersonalLoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="THDashBoard.resx">
+      <DependentUpon>THDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WithdrawDashBoard2.resx">
+      <DependentUpon>WithdrawDashBoard2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
